@@ -2,8 +2,9 @@
 
 抖音 / TikTok 的 LSPosed 模块。发送 `mj`，把当年那个蜘蛛侠彩蛋放回来。
 
-<img src="https://raw.githubusercontent.com/sjtt2/MJComeBack/main/docs/img/drop.gif" alt="蜘蛛侠吊着蛛丝出场" width="200">
-<img src="https://raw.githubusercontent.com/sjtt2/MJComeBack/main/docs/img/swing.gif" alt="蜘蛛侠荡秋千送爱心" width="200">
+| 蜘蛛侠吊着蛛丝出场 | 蜘蛛侠荡秋千送爱心 |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/sjtt2/MJComeBack/main/docs/img/drop.gif" alt="蜘蛛侠吊着蛛丝出场" width="200"> | <img src="https://raw.githubusercontent.com/sjtt2/MJComeBack/main/docs/img/swing.gif" alt="蜘蛛侠荡秋千送爱心" width="200"> |
 
 ## 功能
 
